@@ -1,0 +1,1 @@
+export const VANCOUVER_COORDS: [number, number] = [49.2827, -123.1207];
